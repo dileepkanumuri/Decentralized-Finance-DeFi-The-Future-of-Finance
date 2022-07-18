@@ -1,0 +1,2 @@
+# Decentralized-Finance-DeFi-The-Future-of-Finance
+DeFi and the Future of Finance is a four course learning experience. DeFi or Decentralized Finance is a new technology whereby users interact as peers with algorithms or smart contracts rather than through traditional intermediaries such as banks, brokerages or insurance companies.  The technology has the potential to transform finance as we know it. It solves key problems in traditional finance such as lack of inclusion, inefficiency, opacity, centralized control and lack of interoperability. 
